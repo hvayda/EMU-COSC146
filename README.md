@@ -10,6 +10,7 @@ Here are some web pages that you may need to refer to:
   - Source code download 
     <https://www.dummies.com/store/product/Beginning-Programming-with-Python-For-Dummies-2nd-Edition.productCd-1119457890,navId-322468,descCd-DOWNLOAD.html>
     <https://www.dummies.com/store/product/Python-for-Data-Science-For-Dummies-2nd-Edition.productCd-1119547628,navId-322468,descCd-DOWNLOAD.html>
+    <https://www.dummies.com/store/product/Python-All-in-One-For-Dummies.productCd-1119557593,navId-322468,descCd-DOWNLOAD.html>
   - John Mueller's blog posts related to the book
     <http://blog.johnmuellerbooks.com/category/technical/beginning-programming-with-python-for-dummies/>
 - Jupyter
