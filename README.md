@@ -44,4 +44,5 @@ Here are some web pages that you may need to refer to:
         it is not related to my major. Categorical fields would be Country/Region, and perhaps Province/State. 
         There are several numerical fields. Graphing the growth of cases over time for a selected state like 
         Michigan would be possible, but the date field looks different than what we have studied. I may need some help there.
-
+   - Hunter Vayda-Ramirez: I would like to use <https://github.com/awesomedata/awesome-public-datasets> by downloading the titantic.csv.zip file or   <https://github.com/GeostatsGuy/GeoDataSets/blob/master/dataset_101b.csv> (Not sure how to get).
+       - I would like to try to do the GeostatsGuy dataset, but need help trying to make sure I am able to get the information correctly. Since, I didn't see a file I could download. I am sure I could figure it out, but just want to have clarificaiton. There are other datasets available for these studies and would find them equally as fun. 
